@@ -1,0 +1,14 @@
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\bin\Debug\net9.0\CoreWorld.exe
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\bin\Debug\net9.0\CoreWorld.deps.json
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\bin\Debug\net9.0\CoreWorld.runtimeconfig.json
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\bin\Debug\net9.0\CoreWorld.dll
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\bin\Debug\net9.0\CoreWorld.pdb
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\CoreWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\CoreWorld.AssemblyInfoInputs.cache
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\CoreWorld.AssemblyInfo.cs
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\CoreWorld.csproj.CoreCompileInputs.cache
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\CoreWorld.dll
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\refint\CoreWorld.dll
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\CoreWorld.pdb
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\CoreWorld.genruntimeconfig.cache
+C:\Users\13128\RiderProjects\GCenter\CoreWorld\obj\Debug\net9.0\ref\CoreWorld.dll
